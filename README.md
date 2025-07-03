@@ -91,7 +91,7 @@ Or create an issue/discussion with the appropriate tag.
 ## Maintainer
 
 - **AUR Package Maintainer**: KylerianHD
-- **Upstream**: [Weights.com](https://www.weights.com/replay)
+- **AUR Link**: [replay-bin](https://aur.archlinux.org/packages/replay-bin)
 
 ## Disclaimer
 
